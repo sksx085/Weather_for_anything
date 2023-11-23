@@ -1,0 +1,10 @@
+pandas
+plotly
+matplotlib
+cartopy
+concurrent
+requests
+tkinter
+PIL
+io
+folium
